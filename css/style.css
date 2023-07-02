@@ -243,7 +243,7 @@ section {
       -ms-flex: 1 1 20rem;
           flex: 1 1 20rem;
   padding: 3rem 4rem;
-  border-radius: .5rem;
+  border-radius: 1rem;
   background: linear-gradient(#141e30, #243b55);
   -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
           box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
@@ -273,7 +273,7 @@ section {
   text-align: center;
   -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
           box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
-  border-radius: .5rem;
+  border-radius: 1rem;
   background: linear-gradient(#141e30, #243b55);
 }
 
@@ -371,6 +371,7 @@ section {
   height: 30rem;
   overflow: hidden;
   position: relative;
+  border-radius: 2rem;
 }
 
 .portfolio .box-container .box:hover .content {
